@@ -1,5 +1,16 @@
 # webview_flutter_plus
 
+
+
+# <<=======||||| `Please Read` |||||=======>>
+
+  This package has been `deprecated` in the favor of [webview_flutter](https://pub.dartlang.org/packages/webview_flutter). This package was developed because [webview_flutter](https://pub.dartlang.org/packages/webview_flutter) lacked some important features at that time, like loading local HTML, CSS and Javascript content from Assets or Strings. But, now [webview_flutter](https://pub.dartlang.org/packages/webview_flutter) provides all this stuff since `webview_flutter: ^2.4.0`. It's higly recommended to use [webview_flutter](https://pub.dartlang.org/packages/webview_flutter) for the better performance and the better support.
+# <<=======||||| `Please Read` |||||=======>>
+
+
+
+
+
 # Contents
 * [About](#about)
 * [How to use?](#how-to-use)
