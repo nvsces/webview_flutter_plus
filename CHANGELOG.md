@@ -1,3 +1,6 @@
+## [0.2.4] - Jan 09, 2022
+# `Package has been deprecated` in the favor of [webview_flutter](https://pub.dartlang.org/packages/webview_flutter).
+
 ## [0.2.3+1] - Nov 22, 2021
 * Add iOS-specific note to set JavascriptMode.unrestricted in order to set zoomEnabled: false.
 
